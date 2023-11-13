@@ -1,1 +1,9 @@
 Git guid by dima 
+
+Git rm 
+
+Git rm to remove file(s) from the staging area .
+Format got rm filename
+Can use wildcards and -r for recursive
+Use - - cached to remove from staging area
+Use -f to use on working directory
